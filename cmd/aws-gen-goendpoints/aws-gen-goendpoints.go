@@ -7,7 +7,7 @@ package main
 import (
 	"os"
 
-	"github.com/awslabs/aws-sdk-go/model"
+	"github.com/kuxuxun/aws-sdk-go/model"
 )
 
 func main() {
