@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/awslabs/aws-sdk-go/aws"
-	"github.com/awslabs/aws-sdk-go/gen/endpoints"
+	"github.com/kuxuxun/aws-sdk-go/aws"
+	"github.com/kuxuxun/aws-sdk-go/gen/endpoints"
 )
 
 // OpsWorks is a client for AWS OpsWorks.
